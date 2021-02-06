@@ -5,3 +5,4 @@
 - https://codepen.io/hfavis/pen/ZewvGm
 - https://codepen.io/denoteit/pen/mEhtK
 - https://codepen.io/tutsplus/pen/GJXVgY
+- https://webdesignerwall.com/wdw-snippet/infinite-autoplay-carousel
