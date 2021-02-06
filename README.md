@@ -1,3 +1,3 @@
 # caraousel-codepen-examples
 
--https://codepen.io/koheishingai/pen/uKvJF
+- https://codepen.io/koheishingai/pen/uKvJF
